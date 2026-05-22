@@ -1,0 +1,2 @@
+Note for Fallout reviewer: My version of Shapr3D does not allow exporting STEP files. So here is the Shapr3D link to see the CAD design,
+https://app.shapr3d.com/p/6ae6ebff-efae-4364-8fd7-c0a60253d18e
