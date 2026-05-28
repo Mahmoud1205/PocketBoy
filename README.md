@@ -4,6 +4,8 @@ The PocketBoy is a small handheld console made completely from scratch with a cu
 
 The PocketBoy is made so you can kill time offline anywhere you are. It is very small (approximately 8x5cm) to easily fit in a pocket and has a strong battery which can be easily replaced. It also has a passive buzzer and vibration motor for extra immersion.
 
+This is a project for the Hack Club Fallout program.
+
 ## How to use the PocketBoy
 
 ## Fabrication and Assembly Info
