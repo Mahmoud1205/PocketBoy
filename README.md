@@ -10,6 +10,7 @@ This is a project for the Hack Club Fallout program.
 
 ## Fabrication and Assembly Info
 - Design files can be found in `/Design/Hardware`.
+- Shapr3D link: https://app.shapr3d.com/p/6ae6ebff-efae-4364-8fd7-c0a60253d18e
 - Some prototype code can be found in `/Design/Software`. More software will be added in the future.
 - M2x20mm screws are used to hold the two enclosure parts together. Please thread them manually after printing the enclosure.
 - Please ensure to solder the USB connector accurately so it can fit in the enclosure.
